@@ -42,11 +42,27 @@
   </tr>
 </table>
 
-#  🙋 Hello
 
 <table>
-  
 <tr><td>
+<!-- Most used languages（GitHub 使用语言统计） -->
+
+<!-- ### 😻 Most Used -->
+
+<!-- <div align="center" style="width: 100%"> <img style="width: 100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlcoholTobaccoCode&theme=tokyonight" /> </div> -->
+
+<!-- <div>
+  <img src="https://img.shields.io/badge/python-3.9-orange?style=for-the-badge&logo=python&logoColor=orange" />
+</div> -->
+
+<!-- </td></tr> -->
+
+<!-- <tr><td> -->
+
+<!-- for beauty 留个空行好看点 -->
+<div>&nbsp;</div>
+
+#  🙋 Hello
 
 ### 🤺 About Me
 
@@ -57,6 +73,18 @@
 <p>&emsp;&emsp;热爱计算机科学和IT互联网事业，励志成为一名优秀的开发者。</p>
 <p>&emsp;&emsp;我们正在让这个世界变得更加美好，通过代码的重复使用和延展构建完美体系。</p>
 <p><strong>&emsp;&emsp;We're making the world a better place. Through constructing elegant hierarchies for maximum code reuse and extensibility.</strong></p>
+
+</td></tr>
+
+<tr><td>
+
+### 🥴 Schedule
+
+<div align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=AlcoholTobaccoCode&theme=xcode" /> </div>
+
+<div>&nbsp;</div>
+
+<div align="center" style="width: 100%"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=AlcoholTobaccoCode" style="width: 100%" /> </div>
 
 </td></tr>
 
