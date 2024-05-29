@@ -3,7 +3,7 @@
   <!-- dynamic typing effect 动态打字效果 -->
   <div>
     <a href="https://plugin.duqings.cloud/">
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=console.log(%22Hello%2C%20World%22);青山一道同云雨!&center=true&size=27" />
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=console.log(%22Hello%2C%20World%22);青山一道同云雨!❤️&center=true&size=27" />
     </a>
   </div>
 
@@ -72,8 +72,8 @@
 <p>&emsp;&emsp;热爱编程、摄影、读书、旅行、睡大觉。</p>
 <p>&emsp;&emsp;热爱计算机科学和IT互联网事业，励志成为一名优秀的开发者。</p>
 <p>&emsp;&emsp;想让这个世界变得更加美好，通过代码的重复使用和延展构建完美体系。</p>
-<p>&emsp;&emsp;像日出一样，越来越好，所有的一切✨✨✨</p>
-<p><strong>&emsp;&emsp;Like sunrise, getting better and better, everything✨✨✨</strong></p>
+<p>&emsp;&emsp;像日出一样，越来越好，所有的一切✨✨❤️</p>
+<p><strong>&emsp;&emsp;Like sunrise, getting better and better, everything✨✨❤️</strong></p>
 
 </td></tr>
 
