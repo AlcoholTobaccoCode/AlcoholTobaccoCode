@@ -3,7 +3,7 @@
   <!-- dynamic typing effect 动态打字效果 -->
   <div>
     <a href="https://plugin.duqings.cloud/">
-      [<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=console.log(%22Hello%2C%20World%22);青山一道同云雨!❤️&center=true&size=27" />](https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&width=435&lines=console.log(%22Hello%2C%20World%22);%E9%9D%92%E5%B1%B1%E4%B8%80%E9%81%93%E5%90%8C%E4%BA%91%E9%9B%A8!%E2%9D%A4%EF%B8%8F&center=true&size=27)
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=console.log(%22Hello%2C%20World%22);青山一道同云雨!❤️&center=true&size=27" />
     </a>
   </div>
 
